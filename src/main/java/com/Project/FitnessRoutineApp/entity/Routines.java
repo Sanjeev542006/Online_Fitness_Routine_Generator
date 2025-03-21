@@ -10,7 +10,6 @@ import lombok.NoArgsConstructor;
 
 @Entity
 @Data
-@AllArgsConstructor
 @NoArgsConstructor
 @Table(name ="routines")
 public class Routines {
